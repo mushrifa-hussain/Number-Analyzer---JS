@@ -1,4 +1,4 @@
-# Number-Analyzer---JS
+# Number-Analyzer-JS
 
 This project is a simple JavaScript program developed as part of my Full Stack Web Development internship. The application performs basic number analysis using core programming concepts such as conditions, loops, and functions.
 
